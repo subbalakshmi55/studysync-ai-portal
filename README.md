@@ -1,31 +1,29 @@
-# Smart User Behaviour Tracker
+# StudySync AI Portal
 
-A modern web analytics dashboard developed using HTML, CSS, and JavaScript to track user interactions and engagement metrics.
+An AI-inspired student productivity dashboard built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Page Visit Tracking
-- Button Click Analytics
-- Scroll Percentage Monitoring
-- User Session Timer
-- Login Activity Tracking
-- Newsletter Form Tracking
-- Device Detection
-- Live Event Logs
-- Local Storage Data Persistence
-- Responsive Modern UI
+- Student Productivity Dashboard
+- Attendance Tracker
+- Study Hours Counter
+- Task Management System
+- AI Study Tips Generator
+- Dark Mode Toggle
+- Responsive UI Design
+- Local Storage Integration
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- LocalStorage API
 - DOM Manipulation
+- LocalStorage API
 
 ## Project Purpose
 
-This project was built to understand basic web analytics concepts inspired by platforms like Google Analytics and Google Tag Manager.
+This project was developed to create an interactive student productivity web application with AI-inspired features and modern dashboard design.
 
 ## Live Demo
 
