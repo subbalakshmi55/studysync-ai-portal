@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StudySync AI Portal</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>StudySync AI Portal</h1>
+
+    <button id="darkModeBtn">Toggle Dark Mode</button>
+
+    <div class="dashboard">
+
+      <div class="card">
+        <h2>Attendance</h2>
+        <p>92%</p>
+      </div>
+
+      <div class="card">
+        <h2>Study Hours</h2>
+        <p id="hours">0 hrs</p>
+      </div>
+
+      <div class="card">
+        <h2>Tasks Completed</h2>
+        <p id="taskCount">0</p>
+      </div>
+
+    </div>
+
+    <div class="task-section">
+
+      <input type="text" id="taskInput" placeholder="Enter Task">
+
+      <button id="addTaskBtn">Add Task</button>
+
+    </div>
+
+    <ul id="taskList"></ul>
+
+    <div class="ai-box">
+
+      <h2>AI Study Tip</h2>
+
+      <p id="tip">
+        Click below to generate a smart study suggestion.
+      </p>
+
+      <button id="tipBtn">Generate AI Tip</button>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
